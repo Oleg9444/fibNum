@@ -13,4 +13,4 @@ function fibNum(n) {
 
 const userNum= parseFloat(prompt("Enter your order number of Fibonacci number"));
 
-alert(fibNum(userNum))
+alert(fibNum(userNum));
